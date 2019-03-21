@@ -1,14 +1,5 @@
-# App name
+# ZenDesk VIP Users
 
-[brief description of the app]
+This app allows you to tag a user with "VIP" and then have a warning message shown on any ticket submitted by that user.
 
-### The following information is displayed:
-
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+![Screenshot](screenshot.png?raw=true "Example")
